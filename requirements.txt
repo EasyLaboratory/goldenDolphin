@@ -1,0 +1,7 @@
+pandas
+numpy
+pyinstaller
+rich
+tables
+h5py
+matplotlib

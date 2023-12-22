@@ -1,0 +1,25 @@
+*
+!.gitignore
+!docs
+!docs/**/*
+
+!generator
+!generator/**/*
+
+!utils
+!utils/**/*
+
+!loader
+!loader/**/*
+
+!conf.py
+!loader.py
+!README.md
+!requirements.txt
+
+# filter condition and other configuration is stored in conf dir
+!conf
+!conf/**/*
+
+**/__pycache__/
+
